@@ -138,7 +138,7 @@ You get:
 ### 🔹 5. SHAP Explainability Plot & Downloadable Summary Report Option
 ![SHAP Plot](assets/shap_plot.png)
 
-*Visual explanation showing feature importance in model decision and Text-based summary including findings and recommendations.*
+*Visual explanation showing feature importance in model decision and PDF summary including findings and recommendations.*
 
 ---
 
