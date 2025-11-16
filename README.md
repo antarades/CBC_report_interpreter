@@ -110,7 +110,7 @@ You get:
 ### 🔹 1. Home Page / Upload Screen
 ![Upload Screen](assets/upload_page.png)
 
-*Users upload CBC reports in JPG/PNG/JPEG formats.*
+*Users upload CBC reports in JPG/PNG/JPEG/PDF formats.*
 
 ---
 
@@ -147,7 +147,7 @@ You get:
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/antarades/XAI_medical_CBC_report_interpreter.git
+git clone https://github.com/antarades/CBC_report_interpreter.git
 cd cbc-urgency-detector
 ```
 
